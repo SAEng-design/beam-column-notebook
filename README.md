@@ -13,7 +13,7 @@ Calculations are rendered with [`handcalcs`](https://github.com/connorferster/ha
 3. Edit the `PROJECT` dictionary near the top with your project particulars (project name, member code, engineer, checker, approver, etc.).
 4. Adjust the design loads and trial section as needed.
 5. **Runtime → Run all**.
-6. Review results, then run the **Export to PDF** cell to produce an archive copy.
+6. Review results, then run **Option A** in the Export section. An HTML file downloads to your computer — open it, press **Ctrl+P** (or **Cmd+P**), and choose **"Save as PDF"** to produce the archive copy.
 
 No local Python install is required. The master copy in this repository is intended to be **read-only** — each calculation should be saved as a separate file per job.
 
