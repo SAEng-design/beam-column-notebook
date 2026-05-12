@@ -1,0 +1,5 @@
+handcalcs>=1.6.0
+forallpeople>=2.6.0
+pandas>=1.5.0
+notebook>=6.5
+nbconvert[webpdf]>=7.0
